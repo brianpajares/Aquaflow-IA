@@ -1,0 +1,6 @@
+{
+  "name": "AquaFlow AI",
+  "description": "Plataforma de pre-factibilidad hidrogeológica, priorización geofísica y diseño preliminar de pozos con IA y datos geoespaciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
